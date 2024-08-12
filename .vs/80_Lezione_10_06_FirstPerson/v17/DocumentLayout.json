@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_lezione_10_06_firstperson\\scenes\\playscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|solutionrelative:80_lezione_10_06_firstperson\\scenes\\playscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_lezione_10_06_firstperson\\scenes\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|solutionrelative:80_lezione_10_06_firstperson\\scenes\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_lezione_10_06_firstperson\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|solutionrelative:80_lezione_10_06_firstperson\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_lezione_10_06_firstperson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|solutionrelative:80_lezione_10_06_firstperson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|c:\\users\\alessio\\desktop\\aiv\\anno 1\\progetti\\firstperson_3d\\80_lezione_10_06_firstperson\\actors\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|solutionrelative:80_lezione_10_06_firstperson\\actors\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_lezione_10_06_firstperson\\actors\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|solutionrelative:80_lezione_10_06_firstperson\\actors\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_lezione_10_06_firstperson\\engine\\camera\\cameramngr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|solutionrelative:80_lezione_10_06_firstperson\\engine\\camera\\cameramngr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_lezione_10_06_firstperson\\engine\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|solutionrelative:80_lezione_10_06_firstperson\\engine\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_lezione_10_06_firstperson\\engine\\gameobject3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|solutionrelative:80_lezione_10_06_firstperson\\engine\\gameobject3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_lezione_10_06_firstperson\\controllers\\keyslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|solutionrelative:80_lezione_10_06_firstperson\\controllers\\keyslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_lezione_10_06_firstperson\\engine\\updatemngr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|solutionrelative:80_lezione_10_06_firstperson\\engine\\updatemngr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_lezione_10_06_firstperson\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|solutionrelative:80_lezione_10_06_firstperson\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_lezione_10_06_firstperson\\controllers\\keyboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576CBE7D-C6CC-496F-8F67-842252D9C8E9}|80_Lezione_10_06_FirstPerson\\80_Lezione_10_06_FirstPerson.csproj|solutionrelative:80_lezione_10_06_firstperson\\controllers\\keyboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Actors\\Player.cs",
+              "RelativeDocumentMoniker": "80_Lezione_10_06_FirstPerson\\Actors\\Player.cs",
+              "ToolTip": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Actors\\Player.cs",
+              "RelativeToolTip": "80_Lezione_10_06_FirstPerson\\Actors\\Player.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwC4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:20:03.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KeyboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Controllers\\KeyboardController.cs",
+              "RelativeDocumentMoniker": "80_Lezione_10_06_FirstPerson\\Controllers\\KeyboardController.cs",
+              "ToolTip": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Controllers\\KeyboardController.cs",
+              "RelativeToolTip": "80_Lezione_10_06_FirstPerson\\Controllers\\KeyboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:20:03.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Program.cs",
+              "RelativeDocumentMoniker": "80_Lezione_10_06_FirstPerson\\Program.cs",
+              "ToolTip": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Program.cs",
+              "RelativeToolTip": "80_Lezione_10_06_FirstPerson\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:20:03.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Game.cs",
+              "RelativeDocumentMoniker": "80_Lezione_10_06_FirstPerson\\Game.cs",
+              "ToolTip": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Game.cs",
+              "RelativeToolTip": "80_Lezione_10_06_FirstPerson\\Game.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:20:03.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Engine\\GameObject.cs",
+              "RelativeDocumentMoniker": "80_Lezione_10_06_FirstPerson\\Engine\\GameObject.cs",
+              "ToolTip": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Engine\\GameObject.cs",
+              "RelativeToolTip": "80_Lezione_10_06_FirstPerson\\Engine\\GameObject.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:20:03.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CameraMngr.cs",
+              "DocumentMoniker": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Engine\\Camera\\CameraMngr.cs",
+              "RelativeDocumentMoniker": "80_Lezione_10_06_FirstPerson\\Engine\\Camera\\CameraMngr.cs",
+              "ToolTip": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Engine\\Camera\\CameraMngr.cs",
+              "RelativeToolTip": "80_Lezione_10_06_FirstPerson\\Engine\\Camera\\CameraMngr.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:20:03.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Scenes\\Scene.cs",
+              "RelativeDocumentMoniker": "80_Lezione_10_06_FirstPerson\\Scenes\\Scene.cs",
+              "ToolTip": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Scenes\\Scene.cs",
+              "RelativeToolTip": "80_Lezione_10_06_FirstPerson\\Scenes\\Scene.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:20:03.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Floor.cs",
+              "DocumentMoniker": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Actors\\Floor.cs",
+              "RelativeDocumentMoniker": "80_Lezione_10_06_FirstPerson\\Actors\\Floor.cs",
+              "ToolTip": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Actors\\Floor.cs",
+              "RelativeToolTip": "80_Lezione_10_06_FirstPerson\\Actors\\Floor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:20:03.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayScene.cs",
+              "DocumentMoniker": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Scenes\\PlayScene.cs",
+              "RelativeDocumentMoniker": "80_Lezione_10_06_FirstPerson\\Scenes\\PlayScene.cs",
+              "ToolTip": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Scenes\\PlayScene.cs",
+              "RelativeToolTip": "80_Lezione_10_06_FirstPerson\\Scenes\\PlayScene.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:20:03.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Controllers\\Controller.cs",
+              "RelativeDocumentMoniker": "80_Lezione_10_06_FirstPerson\\Controllers\\Controller.cs",
+              "ToolTip": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Controllers\\Controller.cs",
+              "RelativeToolTip": "80_Lezione_10_06_FirstPerson\\Controllers\\Controller.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:20:03.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KeysList.cs",
+              "DocumentMoniker": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Controllers\\KeysList.cs",
+              "RelativeDocumentMoniker": "80_Lezione_10_06_FirstPerson\\Controllers\\KeysList.cs",
+              "ToolTip": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Controllers\\KeysList.cs",
+              "RelativeToolTip": "80_Lezione_10_06_FirstPerson\\Controllers\\KeysList.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:20:03.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateMngr.cs",
+              "DocumentMoniker": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Engine\\UpdateMngr.cs",
+              "RelativeDocumentMoniker": "80_Lezione_10_06_FirstPerson\\Engine\\UpdateMngr.cs",
+              "ToolTip": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Engine\\UpdateMngr.cs",
+              "RelativeToolTip": "80_Lezione_10_06_FirstPerson\\Engine\\UpdateMngr.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:20:03.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameObject3D.cs",
+              "DocumentMoniker": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Engine\\GameObject3D.cs",
+              "RelativeDocumentMoniker": "80_Lezione_10_06_FirstPerson\\Engine\\GameObject3D.cs",
+              "ToolTip": "C:\\Users\\Alessio\\Desktop\\AIV\\Anno 1\\Progetti\\FirstPerson_3D\\80_Lezione_10_06_FirstPerson\\Engine\\GameObject3D.cs",
+              "RelativeToolTip": "80_Lezione_10_06_FirstPerson\\Engine\\GameObject3D.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowEIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:20:03.957Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\obj\Debug\80_Lezione_10_06_FirstPerson.csproj.AssemblyReference.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\obj\Debug\80_Lezione_10_06_FirstPerson.csproj.CoreCompileInputs.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\Assets\checker.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\Assets\concrete.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\Assets\Stormtrooper.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\Assets\Stormtrooper.obj
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\80_Lezione_10_06_FirstPerson.exe.config
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\80_Lezione_10_06_FirstPerson.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\80_Lezione_10_06_FirstPerson.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\aiv-fast2d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\aiv-fast3d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\AssimpNet.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\OpenTK.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\AssimpNet.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\OpenTK.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\OpenTK.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\obj\Debug\80_Lezione_10_06_FirstPerson.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\obj\Debug\80_Lezione_10_06_FirstPerson.pdb
+C:\Users\aless\OneDrive\Desktop\80_Lezione_10_06_FirstPerson_Bezier\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\Assets\checker.png
+C:\Users\aless\OneDrive\Desktop\80_Lezione_10_06_FirstPerson_Bezier\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\Assets\concrete.png
+C:\Users\aless\OneDrive\Desktop\80_Lezione_10_06_FirstPerson_Bezier\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\Assets\Stormtrooper.png
+C:\Users\aless\OneDrive\Desktop\80_Lezione_10_06_FirstPerson_Bezier\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\Assets\Stormtrooper.obj
+C:\Users\aless\OneDrive\Desktop\80_Lezione_10_06_FirstPerson_Bezier\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\80_Lezione_10_06_FirstPerson.exe.config
+C:\Users\aless\OneDrive\Desktop\80_Lezione_10_06_FirstPerson_Bezier\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\80_Lezione_10_06_FirstPerson.exe
+C:\Users\aless\OneDrive\Desktop\80_Lezione_10_06_FirstPerson_Bezier\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\80_Lezione_10_06_FirstPerson.pdb
+C:\Users\aless\OneDrive\Desktop\80_Lezione_10_06_FirstPerson_Bezier\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\aiv-fast2d.dll
+C:\Users\aless\OneDrive\Desktop\80_Lezione_10_06_FirstPerson_Bezier\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\aiv-fast3d.dll
+C:\Users\aless\OneDrive\Desktop\80_Lezione_10_06_FirstPerson_Bezier\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\AssimpNet.dll
+C:\Users\aless\OneDrive\Desktop\80_Lezione_10_06_FirstPerson_Bezier\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\OpenTK.dll
+C:\Users\aless\OneDrive\Desktop\80_Lezione_10_06_FirstPerson_Bezier\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\AssimpNet.xml
+C:\Users\aless\OneDrive\Desktop\80_Lezione_10_06_FirstPerson_Bezier\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\OpenTK.pdb
+C:\Users\aless\OneDrive\Desktop\80_Lezione_10_06_FirstPerson_Bezier\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\bin\Debug\OpenTK.xml
+C:\Users\aless\OneDrive\Desktop\80_Lezione_10_06_FirstPerson_Bezier\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\obj\Debug\80_Lezione_10_06_FirstPerson.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\80_Lezione_10_06_FirstPerson_Bezier\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\obj\Debug\80_Lezione_10_06_FirstPerson.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\80_Lezione_10_06_FirstPerson_Bezier\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\obj\Debug\80_Lezione_10_06_FirstPerson.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\80_Lezione_10_06_FirstPerson_Bezier\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\obj\Debug\80_Lezione_10_06_FirstPerson.csproj.CopyComplete
+C:\Users\aless\OneDrive\Desktop\80_Lezione_10_06_FirstPerson_Bezier\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\obj\Debug\80_Lezione_10_06_FirstPerson.exe
+C:\Users\aless\OneDrive\Desktop\80_Lezione_10_06_FirstPerson_Bezier\80_Lezione_10_06_FirstPerson\80_Lezione_10_06_FirstPerson\obj\Debug\80_Lezione_10_06_FirstPerson.pdb
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\Assets\checker.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\Assets\Stormtrooper.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\Assets\Stormtrooper.obj
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\Assets\cartoon_grass.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\Assets\cartoon_grass_spec.jpg
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\80_Lezione_10_06_FirstPerson.exe.config
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\80_Lezione_10_06_FirstPerson.exe
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\80_Lezione_10_06_FirstPerson.pdb
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\aiv-fast2d.dll
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\aiv-fast3d.dll
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\AssimpNet.dll
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\OpenTK.dll
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\AssimpNet.xml
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\OpenTK.pdb
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\OpenTK.xml
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\obj\Debug\80_Lezione_10_06_FirstPerson.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\obj\Debug\80_Lezione_10_06_FirstPerson.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\obj\Debug\80_Lezione_10_06_FirstPerson.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\obj\Debug\80_Lezione_10_06_FirstPerson.csproj.CopyComplete
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\obj\Debug\80_Lezione_10_06_FirstPerson.exe
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\obj\Debug\80_Lezione_10_06_FirstPerson.pdb
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\Assets\cartoon_grass.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\Assets\cartoon_grass_spec.jpg
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\Assets\checker.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\Assets\Stormtrooper.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\Assets\Stormtrooper.obj
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\80_Lezione_10_06_FirstPerson.exe.config
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\80_Lezione_10_06_FirstPerson.exe
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\80_Lezione_10_06_FirstPerson.pdb
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\aiv-fast2d.dll
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\aiv-fast3d.dll
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\AssimpNet.dll
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\OpenTK.dll
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\AssimpNet.xml
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\OpenTK.pdb
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\bin\Debug\OpenTK.xml
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\obj\Debug\80_Lezione_10_06_FirstPerson.csproj.AssemblyReference.cache
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\obj\Debug\80_Lezione_10_06_FirstPerson.csproj.CoreCompileInputs.cache
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\obj\Debug\80_Lezio.7557E86B.Up2Date
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\obj\Debug\80_Lezione_10_06_FirstPerson.exe
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\FirstPerson_3D\80_Lezione_10_06_FirstPerson\obj\Debug\80_Lezione_10_06_FirstPerson.pdb
